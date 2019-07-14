@@ -1,0 +1,49 @@
+- layout: left
+  company: Auth0
+  link: auth0.com
+  job_title: Staff Software Engineer
+  dates: August 2018 - Present
+  quote: >
+   Provide a universal authentication & authorization platform for web, mobile and legacy applications.
+  description: |
+    Working as a Staff Software Engineer and Tech Lead of User Management Team. I'm part of the company journey from a startup to become a unicorn.
+    My main role is to scale our platform to manage a billion users using Node.js, Java, PostgreSQL, MongoDB and dozens of AWS services. Currently handling 2.5+ billions of logins a month in a highly scalable and available cloud environment.
+
+- layout: left
+  company: Aurea Software
+  link: aurea.com
+  job_title: Chief Software Architect
+  dates: April 2016 - July 2018
+  description: |
+    Worked as Chief Software Architect in engineering team developing new features in multi-million dollar products such as CX API Manager, CX Dashboard, CX Messenger (Sonic MQ/ESB), CX Monitor (Actional), CX Process (Savvion BPM), ACE (GCE), LyrisHQ, PA5G, Knowledge Marketing, using a wide variety of technologies (Java, C#, Angular, Spring, Docker, Kubernetes, Kafka, Cassandra, ElasticSearch, Spark) to solve complex problems and deploy SaaS high availability solutions in AWS Cloud.
+    - Developing expertise in one or more of our proprietary enterprise software products.
+    - Leveraging your broad technology capability set and maintain a level of excitement in using various technologies to architect, develop, and iteratively deploy real enterprise class software.
+    - Achieving an expert level understanding of our customers environments and their use of our products.
+    - Architecting and leading weekly technical delivery of one or more products in a way that maintains an unyielding focus on quality while matching the needs of the target customer base.
+    - Creating solutions architecture, algorithms, and designs for solutions that scale to the customer's enterprise/global requirements.
+    - Leading a small team of Software Engineers to apply software engineering practices and implement automation across all elements of solution delivery.
+    - Manage accountability of team members, with pinpoint focus on quality.
+    - Personally accountable for resolution of the most technically challenging issues.
+
+- layout: left
+  company: Trier Sistemas
+  link: triersistemas.com.br
+  job_title: Lead Software Architect
+  dates: May 2014 - April 2016
+  description: |
+    Worked as a Lead Software Architect with a team of 50+ developers to deliver new solutions for one of the biggest ERP & PoS pharmacy software player in Brazil. The results were a migration from existing on-premise deployment to a cloud SaaS offering and a new microservices architecture to deliver new features faster.
+    - Software architecture design.
+    - Code quality assurance.
+    - Software release process.
+    - Implement agile methodologies.
+    - Define and verify best coding practices.
+    - Technical mentoring.
+
+- layout: left
+  company: Betha Sistemas
+  link: betha.com.br
+  job_title: Senior Systems Architect
+  dates: August 2007 - April 2014
+  description: |
+    Worked as Senior Systems Architect designing and implementing new "Cloud" line of products for public services solutions for more than 900 Brazilian cities. The solutions included resource planning, accounting, HR, educational, contract management and taxpayer systems.
+    Responsible for bringing new technologies and methodologies that helped the company to achieve the next generation of products in SaaS model impacting over 200 developers and thousands of customers which is being actively used until today. The company investment in this project was greater than 10 million dollars.
