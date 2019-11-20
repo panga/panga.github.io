@@ -19,3 +19,10 @@
   description: |
     Ask Pwned Bot uses <i>haveibeenpwned.com</i> API to check if your account has been pwned.
     The bot is available in <mark>Twitter</mark> and <mark>Telegram</mark>.
+
+- layout: top-middle
+  name: node-shield
+  link: https://www.npmjs.com/package/node-shield
+  github: panga/node-shield
+  description: |
+    Protects against common Node.js vulnerabilities in MEAN stack (MongoDB, Node.js).
