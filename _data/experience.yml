@@ -6,8 +6,11 @@
   quote: >
    Provide a universal authentication & authorization platform for web, mobile and legacy applications.
   description: |
-    Working as a Tech Lead of User Management Team and member of Engineering Design&Architecture workgroup. I'm part of the company journey from a startup to become a unicorn.
-    My main role is to scale our platform to manage a billion users using Node.js, Java, PostgreSQL, MongoDB and dozens of AWS services. Currently handling 2.5+ billions of logins a month in a highly scalable and available cloud environment.
+    Tech lead of IAM (Identity and Access Management) Core Foundations and User Management teams and member of 
+    Engineering Design & Architecture groups. I’m part of the company journey from a startup to become a unicorn. 
+    My main role is to scale our platform to manage a billion users using Node.js, Go, Java, PostgreSQL, MongoDB 
+    and dozens of AWS services. Currently handling 4.5+ billions of logins a month in highly scalable and available 
+    cloud environments.
 
 - layout: left
   company: Aurea Software
