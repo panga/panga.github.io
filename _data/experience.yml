@@ -1,16 +1,15 @@
 - layout: left
   company: Auth0
   link: auth0.com
-  job_title: Staff Software Engineer
+  job_title: System Architect
   dates: August 2018 - Present
   quote: >
    Provide a universal authentication & authorization platform for web, mobile and legacy applications.
   description: |
-    Tech lead of IAM (Identity and Access Management) Core Foundations and User Management teams and member of 
-    Engineering Design & Architecture groups. I’m part of the company journey from a startup to become a unicorn. 
-    My main role is to scale our platform to manage a billion users using Node.js, Go, Java, PostgreSQL, MongoDB 
-    and dozens of AWS services. Currently handling 4.5+ billions of logins a month in highly scalable and available 
-    cloud environments.
+    Working as a System Architect in Product Engineering. Former tech lead of Core Foundations and IAM (Identity and Access Management) 
+    User Management teams. I’m part of the company journey from a startup to become a unicorn. My main role is to scale our 
+    platform to manage a billion users using Node, Go, Java, PostgreSQL, MongoDB, Kafka on AWS and Azure clouds. 
+    Currently handling 4.5+ billions of logins a month in highly scalable and available cloud environments.
 
 - layout: left
   company: Aurea Software
