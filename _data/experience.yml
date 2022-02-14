@@ -1,8 +1,18 @@
 - layout: left
+  company: Okta
+  link: auth0.com
+  job_title: System Architect
+  dates: January 2022 - Present
+  quote: >
+   Accelerate a world where everyone can safely use any technology.
+  description: |
+    System Architect of Auth0 product working towards 10x scale in a high growth environment.
+
+- layout: left
   company: Auth0
   link: auth0.com
   job_title: System Architect
-  dates: August 2018 - Present
+  dates: August 2018 - December 2021
   quote: >
    Provide a universal authentication & authorization platform for web, mobile and legacy applications.
   description: |
