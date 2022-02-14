@@ -1,10 +1,10 @@
 - layout: left
   company: Okta
-  link: auth0.com
+  link: okta.com
   job_title: System Architect
   dates: January 2022 - Present
   quote: >
-   Accelerate a world where everyone can safely use any technology.
+   The World’s #1 Identity Platform.
   description: |
     System Architect of Auth0 product working towards 10x scale in a high growth environment.
 
