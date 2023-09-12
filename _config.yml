@@ -9,20 +9,19 @@ blog: medium.com/@leonardopanga
 github_username:  panga
 twitter_username: leonardopanga
 linkedin_username: leonardozanivan
-stackoverflow_username: leonardopanga
 slideshare_username: leonardozanivan
 
 about_title: About
 about_profile_image: images/profile.jpg
 about_content: |
-  - Software Architect specialized in SaaS and enterprise systems.
+  - Software Architect specialized in high growth SaaS and enterprise systems.
   - Technical team leader.
   - Self-learner and passionate for new technologies and research.
   - Speaker of development events such as QCon, JavaOne, and The Developers Conference.
   - Postgraduate professor in software engineering classes of Software Architecture, SOA, Microservices, Web Development, Design Patterns, and Java.
-  - Apache committer, Apache NetBeans PMC, SouJava & GUJavaSC Java User Group, JCP member and contributor of Open Source projects. e.g: Hibernate, Weld, Spring, QueryDSL, Keycloak, and Arquillian.
+  - Apache committer, Apache NetBeans PMC, JCP member and contributor of Open Source projects. e.g: Hibernate, Weld, Spring, QueryDSL, Keycloak, and Arquillian.
 
-  I am most skilled in: <mark>Software Architecture</mark>, <mark>Java/JavaEE/Spring</mark>, <mark>JavaScript/Node.js</mark>, <mark>Go</mark>, <mark>Python</mark>, <mark>Docker/Kubernetes</mark>, <mark>Angular</mark>, <mark>React</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB</mark>, <mark>Cassandra</mark>, <mark>Security/IAM</mark>, <mark>DevOps/SRE</mark>, <mark>Jenkins</mark>, <mark>Cloud/AWS</mark>, <mark>Kafka</mark>, <mark>ElasticSearch</mark>.
+  I am most skilled in: <mark>Software Architecture</mark>, <mark>Java/JavaEE/Spring</mark>, <mark>JavaScript/Node.js</mark>, <mark>Go</mark>, <mark>Python</mark>, <mark>Angular</mark>, <mark>React</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB</mark>, <mark>Cassandra</mark>, <mark>Redis</mark>, <mark>Kafka</mark>, <mark>ElasticSearch</mark>, <mark>Security/IAM</mark>, <mark>DevOps/SR</mark>, <mark>Docker/Kubernetes</mark>, <mark>Cloud/AWS/Azure</mark>.
 
 experience_title: Experience
 
@@ -34,8 +33,8 @@ more_title: More
 more_content: |
   - Brazilian and Italian citizen.
   - Speaks Portuguese and English.
-  - Live in Santa Catarina, Brazil (UTC-3).
-  - Working from home.
+  - Live in Porto Alegre, RS, Brazil (UTC-3).
+  - Working remote.
 
 footer_show_references: false
 

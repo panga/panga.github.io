@@ -6,7 +6,13 @@
   quote: >
    The World’s #1 Identity Platform.
   description: |
-    System Architect of Auth0 product working towards 10x scale in a high growth environment.
+    I led a team responsible for designing and building the company's production infrastructure with a focus 
+    on scalability, reliability, efficiency and security. I leveraged AWS and Azure cloud services, implemented 
+    infrastructure automation, and ensured strong adherence to best practices. I possessed deep expertise in 
+    cloud infrastructure, microservices, Kubernetes, and SRE concepts. My role involved driving the long-term 
+    vision for reliability and resiliency, while also collaborating with cross-functional teams to enhance 
+    Okta's products. My communication skills and commitment to excellence contributed to Okta's mission of 
+    prioritizing identity business security and growth.
 
 - layout: left
   company: Auth0
@@ -16,10 +22,10 @@
   quote: >
    Provide a universal authentication & authorization platform for web, mobile and legacy applications.
   description: |
-    Working as a System Architect in Product Engineering. Former tech lead of Core Foundations and IAM (Identity and Access Management) 
-    User Management teams. I’m part of the company journey from a startup to become a unicorn. My main role is to scale our 
-    platform to manage a billion users using Node, Go, Java, PostgreSQL, MongoDB, Kafka on AWS and Azure clouds. 
-    Currently handling 4.5+ billions of logins a month in highly scalable and available cloud environments.
+    Worked as a System Architect in Auth0 Engineering. Former tech lead of Auth0 IAM (Identity and Access Management) 
+    Core Foundations and User Management teams. I’m part of the company journey from a startup to a unicorn and merge 
+    with Okta. My main role was to scale our identity platform to manage billions of users using 
+    Node, Go, Java, PostgreSQL, MongoDB, Redis, Kubernetes, Kafka on AWS and Azure clouds.
 
 - layout: left
   company: Aurea Software
