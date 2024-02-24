@@ -1,5 +1,6 @@
 repository: panga/panga.github.io
 favicon: images/favicon.ico
+darkmode: never
 
 name: Leonardo Zanivan
 title: Software Architect
@@ -14,14 +15,14 @@ slideshare_username: leonardozanivan
 about_title: About
 about_profile_image: images/profile.jpg
 about_content: |
-  - Software Architect specialized in high growth SaaS and enterprise systems.
-  - Technical team leader.
+  - Software Architect specialized in hyper growth SaaS and enterprise systems.
+  - Executes company strategy and projects with excellence.
   - Self-learner and passionate for new technologies and research.
-  - Speaker of development events such as QCon, JavaOne, and The Developers Conference.
-  - Postgraduate professor in software engineering classes of Software Architecture, SOA, Microservices, Web Development, Design Patterns, and Java.
-  - Apache committer, Apache NetBeans PMC, JCP member and contributor of Open Source projects. e.g: Hibernate, Weld, Spring, QueryDSL, Keycloak, and Arquillian.
+  - Former postgraduate professor in software engineering classes.
+  - Speaker in software developer events such as QCon, JavaOne, and The Developers Conference.
+  - Apache committer and contributor of OSS. e.g: Hibernate, Weld, Spring, QueryDSL, Keycloak, and Arquillian.
 
-  I am most skilled in: <mark>Software Architecture</mark>, <mark>Java/JavaEE/Spring</mark>, <mark>JavaScript/Node.js</mark>, <mark>Go</mark>, <mark>Python</mark>, <mark>Angular</mark>, <mark>React</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB</mark>, <mark>Cassandra</mark>, <mark>Redis</mark>, <mark>Kafka</mark>, <mark>ElasticSearch</mark>, <mark>Security/IAM</mark>, <mark>DevOps/SRE</mark>, <mark>Docker/Kubernetes</mark>, <mark>Cloud/AWS/Azure</mark>.
+  I am most skilled in: <mark>Software Architecture</mark>, <mark>Java/JavaEE/Spring</mark>, <mark>JavaScript/Node.js</mark>, <mark>Go</mark>, <mark>Python</mark>, <mark>Angular</mark>, <mark>React</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB</mark>, <mark>MySQL</mark>, <mark>Cassandra</mark>, <mark>Redis</mark>, <mark>Kafka</mark>, <mark>ElasticSearch</mark>, <mark>Security/IAM</mark>, <mark>DevOps/SRE</mark>, <mark>Docker/Kubernetes</mark>, <mark>Cloud/AWS/Azure</mark>.
 
 experience_title: Experience
 

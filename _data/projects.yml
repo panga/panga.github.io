@@ -1,28 +1,28 @@
-- layout: top-middle
-  name: NetBeans JSHint
-  link: plugins.netbeans.org/plugin/58580/jshint
-  github: panga/netbeans-jshint
-  description: |
-    JSHint plugin for Apache NetBeans IDE 8+ compatible with ECMAScript 2018.
+# - layout: top-middle
+#   name: NetBeans JSHint
+#   link: plugins.netbeans.org/plugin/58580/jshint
+#   github: panga/netbeans-jshint
+#   description: |
+#     JSHint plugin for Apache NetBeans IDE 8+ compatible with ECMAScript 2018.
 
-- layout: top-middle
-  name: Java LiteBeans
-  link: github.com/panga/lite-beans
-  github: panga/lite-beans
-  description: |
-    LiteBeans is implementation of the <i>java.beans</i> package based on the Apache Harmony project.
+# - layout: top-middle
+#   name: Java LiteBeans
+#   link: github.com/panga/lite-beans
+#   github: panga/lite-beans
+#   description: |
+#     LiteBeans is implementation of the <i>java.beans</i> package based on the Apache Harmony project.
 
-- layout: top-middle
-  name: Ask Pwned Bot
-  link: github.com/panga/askpwnedbot
-  github: panga/askpwnedbot
-  description: |
-    Ask Pwned Bot uses <i>haveibeenpwned.com</i> API to check if your account has been pwned.
-    The bot is available in <mark>Twitter</mark> and <mark>Telegram</mark>.
+# - layout: top-middle
+#   name: Ask Pwned Bot
+#   link: github.com/panga/askpwnedbot
+#   github: panga/askpwnedbot
+#   description: |
+#     Ask Pwned Bot uses <i>haveibeenpwned.com</i> API to check if your account has been pwned.
+#     The bot is available in <mark>Twitter</mark> and <mark>Telegram</mark>.
 
-- layout: top-middle
-  name: node-shield
-  link: https://www.npmjs.com/package/node-shield
-  github: panga/node-shield
-  description: |
-    Protects against common Node.js vulnerabilities in MEAN stack (MongoDB, Node.js).
+# - layout: top-middle
+#   name: node-shield
+#   link: https://www.npmjs.com/package/node-shield
+#   github: panga/node-shield
+#   description: |
+#     Protects against common Node.js vulnerabilities in MEAN stack (MongoDB, Node.js).

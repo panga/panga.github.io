@@ -1,37 +1,39 @@
 - layout: left
   company: Okta
   link: okta.com
-  job_title: System Architect
+  job_title: Software Architect
   dates: January 2022 - Present
   quote: >
-   The World’s #1 Identity Platform.
+   The world leader in identity platform.
   description: |
-    I led a team responsible for designing and building the company's production infrastructure with a focus 
+    I lead a team responsible for designing and building the company's SaaS production infrastructure with a focus 
     on scalability, reliability, efficiency and security. I leveraged AWS and Azure cloud services, implemented 
-    infrastructure automation, and ensured strong adherence to best practices. I possessed deep expertise in 
-    cloud infrastructure, microservices, Kubernetes, and SRE concepts. My role involved driving the long-term 
-    vision for reliability and resiliency, while also collaborating with cross-functional teams to enhance 
+    infrastructure automation, and ensured strong adherence to compliance certifications. I have deep expertise in 
+    cloud infrastructure, microservices, and SRE concepts. My role includes driving the long-term 
+    vision for the system architecture, while also collaborating with cross-functional teams to enhance 
     Okta's products. My communication skills and commitment to excellence contributed to Okta's mission of 
-    prioritizing identity business security and growth.
+    prioritizing identity business security and growth by antecipatng problems and giving strategic solutions.
 
 - layout: left
   company: Auth0
-  link: auth0.com
-  job_title: System Architect
+  link: auth0.com (acquired by Okta)
+  job_title: Software Architect
   dates: August 2018 - December 2021
   quote: >
    Provide a universal authentication & authorization platform for web, mobile and legacy applications.
   description: |
-    Worked as a System Architect in Auth0 Engineering. Former tech lead of Auth0 IAM (Identity and Access Management) 
+    Worked as a Software Architect in Auth0 engineering team. During my trajectory, I've help to build and lead the IAM (Identity and Access Management) 
     Core Foundations and User Management teams. I’m part of the company journey from a startup to a unicorn and merge 
-    with Okta. My main role was to scale our identity platform to manage billions of users using 
-    Node, Go, Java, PostgreSQL, MongoDB, Redis, Kubernetes, Kafka on AWS and Azure clouds.
+    with Okta. My main role was to scale our SaaS identity platform to manage billions of authentications and users using 
+    Node.js, Go, Java, PostgreSQL, MongoDB, Redis, Kubernetes, Kafka on AWS and Azure clouds.
 
 - layout: left
   company: Aurea Software
   link: aurea.com
   job_title: Chief Software Architect
   dates: April 2016 - July 2018
+  quote: >
+   Enterprise software library with solutions for many verticals and business needs.
   description: |
     Worked as Chief Software Architect in engineering team developing new features in multi-million dollar products such as CX API Manager, CX Dashboard, CX Messenger (Sonic MQ/ESB), CX Monitor (Actional), CX Process (Savvion BPM), ACE (GCE), LyrisHQ, PA5G, Knowledge Marketing, using a wide variety of technologies (Java, C#, Angular, Spring, Docker, Kubernetes, Kafka, Cassandra, ElasticSearch, Spark) to solve complex problems and deploy SaaS high availability solutions in AWS Cloud.
     - Developing expertise in one or more of our proprietary enterprise software products.
@@ -39,17 +41,19 @@
     - Achieving an expert level understanding of our customers environments and their use of our products.
     - Architecting and leading weekly technical delivery of one or more products in a way that maintains an unyielding focus on quality while matching the needs of the target customer base.
     - Creating solutions architecture, algorithms, and designs for solutions that scale to the customer's enterprise/global requirements.
-    - Leading a small team of Software Engineers to apply software engineering practices and implement automation across all elements of solution delivery.
+    - Leading a team of senior software engineers to apply best software engineering practices and implement automation across all elements of solution delivery.
     - Manage accountability of team members, with pinpoint focus on quality.
-    - Personally accountable for resolution of the most technically challenging issues.
+    - Personally accountable for resolution of the most technically challenging requirements.
 
 - layout: left
   company: Trier Sistemas
   link: triersistemas.com.br
   job_title: Senior Software Architect
   dates: May 2014 - April 2016
+  quote: >
+   The biggest ERP & PoS pharmacy software player in Brazil.
   description: |
-    Worked as a Senior Software Architect with a team of 50+ developers to deliver new solutions for one of the biggest ERP & PoS pharmacy software player in Brazil. The results were a migration from existing on-premise deployment to a cloud SaaS offering and a new microservices architecture to deliver new features faster.
+    Worked as a Senior Software Architect with a team of 50+ developers to deliver new products and SaaS solutions. The results were a migration from existing on-premise deployment to a SaaS offering and a new microservices architecture to scale multi-tenants and deliver new features faster.
     - Software architecture design.
     - Code quality assurance.
     - Software release process.
@@ -63,5 +67,5 @@
   job_title: Senior System Architect
   dates: August 2007 - April 2014
   description: |
-    Worked as Senior System Architect designing and implementing new "Cloud" line of products for public services solutions for more than 900 Brazilian cities. The solutions included resource planning, accounting, HR, educational, contract management and taxpayer systems.
-    Responsible for bringing new technologies and methodologies that helped the company to achieve the next generation of products in SaaS model impacting over 200 developers and thousands of customers which is being actively used until today. The company investment in this project was greater than 10 million dollars.
+    Started my career as a engineer and reached a Senior System Architect position designing and implementing the new "cloud" line of products for public services solutions for more than 900 Brazilian cities. The solutions included resource planning, accounting, HR, educational, contract management and taxpayer systems.
+    Responsible for bringing new technologies and methodologies that helped the company to achieve the next generation of products in SaaS model impacting over 200 developers and thousands of users. The company investment in this project was greater than 10 million US dollars.

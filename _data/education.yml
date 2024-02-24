@@ -1,12 +1,11 @@
 - layout: left
   name: Instituto de Gestão e Tecnologia da Informação - IGTI
-  link: igti.com.br
   dates: 2013 - 2014
   qualification: MBA Software Architecture
   quote: >
     Established in 2006, IGTI is a post-graduation specialization school for IT.
   description: |
-    During my time at IGTI, I have met and learned from IT experts all over Brazil in which a variety of industries. I had the opportunity to practice all my knowledge in my current position as a Software Architect and lead the company to the best industry practices.
+    During my time at IGTI, I have met and learned from IT experts all over Brazil in which a variety of industries. I had the opportunity to practice all my knowledge in my current position as a system architect and lead the company to the best industry practices.
 
 - layout: left
   name: Faculdade de Ciências Econômicas da Região Carbonífera - FACIERC
@@ -15,11 +14,10 @@
   quote: >
     Established in 2000, FACIERC is a graduation school of sciences in Santa Catarina state, Brazil.
   description: |
-    When I joined at FACIERC I was already working in the IT field as a software engineer at a large software company (Betha Sistemas) and the academic environment helped to jump to the next stage in my career to become a systems architect.
+    When I joined at FACIERC I was already working in the IT field as a software engineer at a software company (Betha Sistemas) and the academic environment helped to jump to the next stage in my career to become a system architect.
 
 - layout: left
-  name: Colégio SATC
-  link: colegio.satc.edu.br
+  name: SATC - Educação, Tecnologia e Inovação
   dates: 2005 - 2007
   qualification: Information Technology School
   quote: >
