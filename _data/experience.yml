@@ -6,26 +6,28 @@
   quote: >
    The world leader in identity platform.
   description: |
-    I lead a team responsible for designing and building the company's SaaS production infrastructure with a focus 
-    on scalability, reliability, efficiency and security. I leveraged AWS and Azure cloud services, implemented 
-    infrastructure automation, and ensured strong adherence to compliance certifications. I have deep expertise in 
-    cloud infrastructure, microservices, and SRE concepts. My role includes driving the long-term 
-    vision for the system architecture, while also collaborating with cross-functional teams to enhance 
-    Okta's products. My communication skills and commitment to excellence contributed to Okta's mission of 
-    prioritizing identity business security and growth by antecipatng problems and giving strategic solutions.
+    Designing and building the company’s identity cloud solutions with focus on scalability, 
+    reliability, security and efficiency on AWS and Azure cloud services. Implemented engineering
+    tech radar and guidelines, infrastructure automation, and ensured strong adherence to 
+    compliance certifications. I have deep expertise in system architecture, cloud infrastructure, 
+    and SRE. My role includes driving the long-term vision for the system architecture, while also 
+    collaborating with cross-functional teams to enhance Okta’s products. My communication skills 
+    and commitment to excellence contributed to Okta’s mission of prioritizing identity business 
+    growth by antecipatng problems and giving strategic solutions.
 
 - layout: left
-  company: Auth0
-  link: auth0.com (acquired by Okta)
+  company: Auth0 (acquired by Okta)
+  link: auth0.com
   job_title: Software Architect
   dates: August 2018 - December 2021
   quote: >
    Provide a universal authentication & authorization platform for web, mobile and legacy applications.
   description: |
-    Worked as a Software Architect in Auth0 engineering team. During my trajectory, I've help to build and lead the IAM (Identity and Access Management) 
-    Core Foundations and User Management teams. I’m part of the company journey from a startup to a unicorn and merge 
-    with Okta. My main role was to scale our SaaS identity platform to manage billions of authentications and users using 
-    Node.js, Go, Java, PostgreSQL, MongoDB, Redis, Kubernetes, Kafka on AWS and Azure clouds.
+    Worked as a Software Architect in Auth0 engineering team. During my trajectory, I’ve help to build 
+    and lead the IAM (Identity and Access Management) Core Foundations and User Management teams. I’m 
+    part of the company journey from a startup to a unicorn and acquisition by Okta. My main role was 
+    to scale our SaaS identity platform to manage billions of authentications and users using Node.js, 
+    Go, Java, PostgreSQL, MongoDB, Redis, Kubernetes, Kafka on AWS and Azure clouds.
 
 - layout: left
   company: Aurea Software
