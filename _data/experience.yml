@@ -8,9 +8,8 @@
   description: |
     Designing and building the company’s identity cloud solutions with focus on scalability, 
     reliability, security and efficiency on AWS and Azure cloud services. Implemented engineering
-    tech radar and guidelines, infrastructure automation, and ensured strong adherence to 
-    compliance certifications. I have deep expertise in system architecture, cloud infrastructure, 
-    and SRE. My role includes driving the long-term vision for the system architecture, while also 
+    tech radar and guidelines, infrastructure automation, data privacy and ensured strong adherence to 
+    compliance certifications. My role includes driving the long-term vision for the system architecture, while also 
     collaborating with cross-functional teams to enhance Okta’s products. My communication skills 
     and commitment to excellence contributed to Okta’s mission of prioritizing identity business 
     growth by antecipatng problems and giving strategic solutions.
@@ -26,8 +25,7 @@
     Worked as a Software Architect in Auth0 engineering team. During my trajectory, I’ve help to build 
     and lead the IAM (Identity and Access Management) Core Foundations and User Management teams. I’m 
     part of the company journey from a startup to a unicorn and acquisition by Okta. My main role was 
-    to scale our SaaS identity platform to manage billions of authentications and users using Node.js, 
-    Go, Java, PostgreSQL, MongoDB, Redis, Kubernetes, Kafka on AWS and Azure clouds.
+    to scale our SaaS identity platform to manage billions of authentications and users.
 
 - layout: left
   company: Aurea Software
@@ -37,7 +35,7 @@
   quote: >
    Enterprise software library with solutions for many verticals and business needs.
   description: |
-    Worked as Chief Software Architect in engineering team developing new features in multi-million dollar products such as CX API Manager, CX Dashboard, CX Messenger (Sonic MQ/ESB), CX Monitor (Actional), CX Process (Savvion BPM), ACE (GCE), LyrisHQ, PA5G, Knowledge Marketing, using a wide variety of technologies (Java, C#, Angular, Spring, Docker, Kubernetes, Kafka, Cassandra, ElasticSearch, Spark) to solve complex problems and deploy SaaS high availability solutions in AWS Cloud.
+    Worked as Chief Software Architect in engineering team developing new features in multi-million dollar products such as CX API Manager, CX Dashboard, CX Messenger (Sonic MQ/ESB), CX Monitor (Actional), CX Process (Savvion BPM), ACE (GCE), LyrisHQ, PA5G, Knowledge Marketing, using a wide variety of technologies to solve complex problems and deploy SaaS high availability solutions in AWS Cloud.
     - Developing expertise in one or more of our proprietary enterprise software products.
     - Leveraging your broad technology capability set and maintain a level of excitement in using various technologies to architect, develop, and iteratively deploy real enterprise class software.
     - Achieving an expert level understanding of our customers environments and their use of our products.
