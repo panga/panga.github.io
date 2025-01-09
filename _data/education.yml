@@ -1,26 +1,26 @@
 - layout: left
-  name: Instituto de Gestão e Tecnologia da Informação - IGTI
+  name: IGTI (Faculdade XP)
   dates: 2013 - 2014
   qualification: MBA Software Architecture
-  quote: >
-    Established in 2006, IGTI is a post-graduation specialization school for IT.
+  # quote: >
+  #   Established in 2006, IGTI is a post-graduation specialization school for IT.
   description: |
-    During my time at IGTI, I have met and learned from IT experts all over Brazil in which a variety of industries. I had the opportunity to practice all my knowledge in my current position as a system architect and lead the company to the best industry practices.
+    During my time at IGTI, I have met and learned from IT experts all over Brazil in which a variety of industries. I had the opportunity to practice all my knowledge in my position as a software architect and lead the company to the best industry practices.
 
 - layout: left
-  name: Faculdade de Ciências Econômicas da Região Carbonífera - FACIERC
+  name: FACIERC
   dates: 2008 - 2011
   qualification: BSc Computer Information Systems
-  quote: >
-    Established in 2000, FACIERC is a graduation school of sciences in Santa Catarina state, Brazil.
+  # quote: >
+  #   Established in 2000, FACIERC is a graduation school of sciences in Santa Catarina state, Brazil.
   description: |
-    When I joined at FACIERC I was already working in the IT field as a software engineer at a software company (Betha Sistemas) and the academic environment helped to jump to the next stage in my career to become a system architect.
+    When I joined at FACIERC I was already working as an engineer at a software company (Betha Sistemas) and the academic environment helped to jump to the next stage in my career to become a software architect.
 
-- layout: left
-  name: SATC - Educação, Tecnologia e Inovação
-  dates: 2005 - 2007
-  qualification: Information Technology School
-  quote: >
-    Established in 1963, SATC is a well-known technical school that exports technicians to wide Brazil.
-  description: |
-    During my time at SATC, I learnt most of my key skills that have I have taken through my career such as IT, teamwork and working to tight deadlines. The technical course was integral time and included IT fundamentals, electronics, physics, and math. 
+# - layout: left
+#   name: SATC - Educação, Tecnologia e Inovação
+#   dates: 2005 - 2007
+#   qualification: Information Technology School
+#   quote: >
+#     Established in 1963, SATC is a well-known technical school that exports technicians to wide Brazil.
+#   description: |
+#     During my time at SATC, I learnt most of my key skills that have I have taken through my career such as IT, teamwork and working to tight deadlines. The technical course was integral time and included IT fundamentals, electronics, physics, and math. 

@@ -5,35 +5,27 @@ darkmode: never
 name: Leonardo Zanivan
 title: Software Architect
 email: leonardo.zanivan@gmail.com
-website: www.panga.dev
-blog: medium.com/@leonardopanga
+phone: +55 48 996186781
+#blog: medium.com/@leonardopanga
 github_username:  panga
-twitter_username: leonardopanga
 linkedin_username: leonardozanivan
-slideshare_username: leonardozanivan
+#slideshare_username: leonardozanivan
 
-about_title: About
+about_title: Summary
 about_profile_image: images/profile.jpg
 about_content: |
-  - Specialized in hyper growth SaaS products.
-  - Self-learner and passionate for new technologies and research.
-  - Former postgraduate professor in software engineering classes.
+  - Hands-on software architect specialized on high scalability.
+  - Quick learner with strong problem-solving skills.
   - Speaker in software developer events such as QCon, JavaOne, and The Developers Conference.
-  - Apache committer and contributor of OSS. e.g: Hibernate, Weld, Spring, QueryDSL, Keycloak, and Arquillian.
+  - Open Source enthusiast and contributor such as DuckDB, Hibernate, Spring, Keycloak.
 
-  I am most skilled in: <mark>Java</mark>, <mark>Spring</mark>, <mark>Node.js</mark>, <mark>Go</mark>, <mark>Python</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB</mark>, <mark>MySQL</mark>, <mark>Cassandra</mark>, <mark>Redis</mark>, <mark>Kafka</mark>, <mark>ElasticSearch</mark>, <mark>Snowflake</mark>, <mark>Security</mark>, <mark>DevOps</mark>, <mark>SRE</mark>, <mark>Kubernetes</mark>, <mark>AWS</mark>, <mark>Azure</mark>.
+  The technologies I am most skilled in: <mark>Java</mark>, <mark>Node.js</mark>, <mark>Go</mark>, <mark>Python</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB</mark>, <mark>MySQL</mark>, <mark>Cassandra</mark>, <mark>DynamoDB</mark>, <mark>Redis</mark>, <mark>Kafka</mark>, <mark>ElasticSearch</mark>, <mark>OpenTelemetry</mark>, <mark>DataDog</mark>, <mark>Terraform</mark>, <mark>Docker</mark>, <mark>Kubernetes</mark>, <mark>AWS</mark>, <mark>Azure</mark>.
 
-experience_title: Experience
+experience_title: Work Experience
 
 educaton_title: Education
 
 projects_title: Projects
-
-more_title: More
-more_content: |
-  - Speaks Portuguese and English.
-  - Located in Brazil (UTC-3).
-  - Work from home (fully remote).
 
 footer_show_references: false
 
