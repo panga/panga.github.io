@@ -5,7 +5,7 @@ darkmode: never
 name: Leonardo Zanivan
 title: Software Architect
 email: leonardo.zanivan@gmail.com
-phone: +55 48996186781
+#phone: +55 48996186781
 #blog: medium.com/@leonardopanga
 github_username:  panga
 linkedin_username: leonardozanivan
@@ -17,7 +17,7 @@ about_content: |
   - Hands-on software architect specialized on high scalability.
   - Quick learner with strong problem-solving skills.
   - Speaker in software developer events such as QCon, JavaOne, and The Developers Conference.
-  - Open Source enthusiast and contributor such as DuckDB, Hibernate, Spring, Keycloak.
+  - Open Source enthusiast and contributor such as nono.sh, DuckDB, Hibernate, Spring, Keycloak.
 
   The technologies I am most skilled in: <mark>Java</mark>, <mark>Node.js</mark>, <mark>Go</mark>, <mark>Python</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB</mark>, <mark>MySQL</mark>, <mark>Cassandra</mark>, <mark>DynamoDB</mark>, <mark>Redis</mark>, <mark>Kafka</mark>, <mark>ElasticSearch</mark>, <mark>OpenTelemetry</mark>, <mark>DataDog</mark>, <mark>Terraform</mark>, <mark>Docker</mark>, <mark>Kubernetes</mark>, <mark>AWS</mark>, <mark>Azure</mark>.
 
