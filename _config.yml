@@ -14,12 +14,14 @@ linkedin_username: leonardozanivan
 about_title: Summary
 about_profile_image: images/profile.jpg
 about_content: |
-  - Hands-on software architect specialized on high scalability.
-  - Quick learner with strong problem-solving skills.
-  - Speaker in software developer events such as QCon, JavaOne, and The Developers Conference.
-  - Open Source enthusiast and contributor such as nono.sh, DuckDB, Hibernate, Spring, Keycloak.
+  - Hands-on software architect building scalable SaaS platforms, with experience in identity, security, ERP, and PoS systems.
+  - Managing AI agents and advancing AI-driven software factory practices to accelerate software delivery.
+  - Architecture leadership spanning startup growth, enterprise scale, and collaboration across engineering and business teams.
+  - Speaker at software development conferences such as QCon, JavaOne, and The Developers Conference.
+  - Core contributor to [Nono](https://github.com/nolabs-ai/nono), an open-source security runtime for AI agents.
+  - Open-source contributor to DuckDB, Hibernate, Spring, and Keycloak.
 
-  The technologies I am most skilled in: <mark>Java</mark>, <mark>Node.js</mark>, <mark>Go</mark>, <mark>Python</mark>, <mark>Rust</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB</mark>, <mark>MySQL</mark>, <mark>Cassandra</mark>, <mark>DynamoDB</mark>, <mark>Redis</mark>, <mark>Kafka</mark>, <mark>ElasticSearch</mark>, <mark>OpenTelemetry</mark>, <mark>DataDog</mark>, <mark>Terraform</mark>, <mark>Docker</mark>, <mark>Kubernetes</mark>, <mark>AWS</mark>, <mark>Azure</mark>.
+  Core technologies: <mark>Java</mark>, <mark>Node.js</mark>, <mark>Go</mark>, <mark>Python</mark>, <mark>Rust</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB</mark>, <mark>MySQL</mark>, <mark>Cassandra</mark>, <mark>DynamoDB</mark>, <mark>Redis</mark>, <mark>Kafka</mark>, <mark>Elasticsearch</mark>, <mark>OpenTelemetry</mark>, <mark>Datadog</mark>, <mark>Terraform</mark>, <mark>Docker</mark>, <mark>Kubernetes</mark>, <mark>AWS</mark>, <mark>Azure</mark>, <mark>GCP</mark>.
 
 experience_title: Work Experience
 

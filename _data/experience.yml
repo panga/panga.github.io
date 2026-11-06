@@ -4,10 +4,14 @@
   job_title: Senior Software Architect
   dates: January 2022 - Present
   description: |
-    Designing and building the Auth0 product with focus on scalability, 
-    reliability, security and efficiency on AWS and Azure cloud services. Implemented engineering
-    tech radar and guidelines, SRE and DevOps procedures, infrastructure automation, performance tuning, event streaming, cost reduction, monolith decomposition, data privacy and adherence to 
-    compliance certifications (PCI, SOC2, HIPPA, FedRAMP). I'm driving the long-term strategy for the system architecture and collaborating with cross-functional and engineering teams to execute business goals.
+    Managing AI agents and advancing an AI-driven software factory to accelerate software delivery.
+    Applying software architecture and security expertise to AI-assisted development workflows.
+
+    Designing and building Auth0 with a focus on scalability, reliability, security, and efficiency on AWS and Azure.
+    Established an engineering technology radar and guidelines, as well as SRE and DevOps procedures.
+    Worked on infrastructure automation, performance tuning, event streaming, cost reduction, monolith decomposition,
+    data privacy, and compliance requirements (PCI, SOC 2, HIPAA, and FedRAMP).
+    Driving the long-term architecture strategy and collaborating with engineering and other cross-functional teams to achieve business goals.
 
 - layout: left
   company: Auth0 (acquired by Okta)
@@ -15,10 +19,9 @@
   job_title: Software Architect
   dates: August 2018 - December 2021
   description: |
-    Worked as a Software Architect in engineering team. I’ve help to build 
-    and lead the IAM (Identity and Access Management) Core Foundations and User Management teams. I’m 
-    part of the company journey from a startup to a unicorn and acquisition by Okta. My main role was 
-    to scale our SaaS identity platform to manage millions of users and billions of authentications per month.
+    Worked as a Software Architect on the engineering team, helping build and lead the IAM (Identity and Access Management)
+    Core Foundations and User Management teams. Contributed to the company's journey from startup to unicorn and its acquisition by Okta.
+    Focused on scaling the SaaS identity platform to support millions of users and billions of authentications per month.
 
 - layout: left
   company: Aurea Software
@@ -26,9 +29,10 @@
   job_title: Chief Software Architect
   dates: April 2016 - July 2018
   description: |
-    Worked as Chief Software Architect in the engineering team developing new features in multi-million dollar products such as CX API Manager, CX Dashboard, CX Messenger (Sonic MQ/ESB), CX Monitor (Actional), CX Process (Savvion BPM), ACE (GCE), LyrisHQ, PA5G, Knowledge Marketing, using a wide variety of technologies to solve complex problems and deploy SaaS high availability solutions in AWS cloud.
-
-    .
+    Worked as Chief Software Architect on the engineering team, developing new features for multimillion-dollar products
+    including CX API Manager, CX Dashboard, CX Messenger (Sonic MQ/ESB), CX Monitor (Actional), CX Process (Savvion BPM),
+    ACE (GCE), LyrisHQ, PA5G, and Knowledge Marketing. Used a wide range of technologies to solve complex problems
+    and deploy highly available SaaS solutions on AWS.
 
 - layout: left
   company: Trier Sistemas
@@ -36,7 +40,10 @@
   job_title: Senior Software Architect
   dates: May 2014 - April 2016
   description: |
-    Worked as a Senior Software Architect in one of the biggest ERP & PoS pharmacy software player in Brazil with a team of 50+ developers to deliver a modern pharmacy backoffice product. The results were a migration from existing on-premise deployment to a SaaS offering and a new microservices architecture with multi-tenancy and the delivery of innovative features to the market.
+    Worked as a Senior Software Architect at one of Brazil's largest providers of ERP and PoS software for pharmacies,
+    collaborating with a team of 50+ developers to deliver a modern pharmacy back-office product.
+    The work included migrating from on-premises deployments to a SaaS offering, introducing a multitenant microservices architecture,
+    and bringing new features to market.
 
 - layout: left
   company: Betha Sistemas
@@ -44,5 +51,8 @@
   job_title: System Architect
   dates: August 2007 - April 2014
   description: |
-    Started my career as a engineer and reached a system architect position designing and implementing the new line of products for public services for more than 900 Brazilian cities. The solutions included HR, planning, accounting, educational, contract management and taxpayer systems.
-    I was responsible for bringing new technologies and methodologies that helped the company to achieve the next generation of products in SaaS model impacting more than 200 developers and thousands of users. The company investment in this project was more than 10 million US dollars.
+    Started as an engineer and progressed to System Architect, designing and implementing a new product line
+    for public services in more than 900 Brazilian cities. The solutions covered HR, planning, accounting, education,
+    contract management, and taxpayer services.
+    Introduced technologies and methodologies that supported the company's next generation of SaaS products,
+    impacting more than 200 developers and thousands of users. The company invested more than US$10 million in the project.

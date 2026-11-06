@@ -26,3 +26,11 @@
 #   github: panga/node-shield
 #   description: |
 #     Protects against common Node.js vulnerabilities in MEAN stack (MongoDB, Node.js).
+
+# - layout: top-middle
+#   name: Nono
+#   link: nono.sh
+#   github: nolabs-ai/nono
+#   description: |
+#     Core contributor to Nono, an open-source security runtime for AI agents.
+#     The project provides OS-enforced isolation and scoped access to resources for agent execution.

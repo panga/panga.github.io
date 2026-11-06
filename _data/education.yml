@@ -1,20 +1,20 @@
 - layout: left
   name: IGTI (Faculdade XP)
   dates: 2013 - 2014
-  qualification: MBA Software Architecture
+  qualification: MBA in Software Architecture
   # quote: >
   #   Established in 2006, IGTI is a post-graduation specialization school for IT.
   description: |
-    During my time at IGTI, I have met and learned from IT experts all over Brazil in which a variety of industries. I had the opportunity to practice all my knowledge in my position as a software architect and lead the company to the best industry practices.
+    At IGTI, I learned from IT experts across Brazil working in a variety of industries. I applied this knowledge in my role as a software architect, helping the company adopt industry best practices.
 
 - layout: left
   name: FACIERC
   dates: 2008 - 2011
-  qualification: BSc Computer Information Systems
+  qualification: BSc in Computer Information Systems
   # quote: >
   #   Established in 2000, FACIERC is a graduation school of sciences in Santa Catarina state, Brazil.
   description: |
-    When I joined at FACIERC I was already working as an engineer at a software company (Betha Sistemas) and the academic environment helped to jump to the next stage in my career to become a software architect.
+    When I enrolled at FACIERC, I was already working as a software engineer at Betha Sistemas. My studies supported my career progression toward software architecture.
 
 # - layout: left
 #   name: SATC - Educação, Tecnologia e Inovação
